@@ -13,6 +13,11 @@ header {
     text-align: center;
 }
 
+header p {
+    width: 80%;
+    margin: 10px auto;
+}
+
 nav {
     background: black;
     color: #ffffff;
